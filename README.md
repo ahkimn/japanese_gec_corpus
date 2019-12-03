@@ -12,6 +12,8 @@ The corpus is contained in the file corpus_v0.txt, which is organized as follows
 - Error phrases in the error sentence are demarcated by angled brackets "<" and ">"
 - Corresponding correct phrases are demarcated by parentheses "(" and ")"
 
+We are continually updating and correcting the corpus. Older versions will be placed in the folder "previous_versions" under the filename corpus_v*.txt (with * being the version number)
+
 ## Tags
 
 These are unfinished and will be uploaded in full when complete.
